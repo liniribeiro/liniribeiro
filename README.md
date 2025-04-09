@@ -57,7 +57,6 @@ I'm a Software Engineer with over 11 years of experience in backend systems and 
 
 ## 🧰 Projects
 
-Make sure to pin:
 - [li-aws-helper](https://pypi.org/project/li-aws-helper/): Python library designed to facilitate the management of AWS credentials
 - [li-memcached-client](https://pypi.org/project/li-memcached-client/): Python package that helps to get memcached iteractions
 - [sagemaker-model](https://github.com/liniribeiro/sagemaker-model): Deployment example of a model using sagemaker endpoints
